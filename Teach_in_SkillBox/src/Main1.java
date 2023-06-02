@@ -7,7 +7,7 @@ public class Main1 {
 //        static1.forTeach();
 //        System.out.println(static1.forTeach());
 
-        int letht = 1;//задача:найти сумму, количество и среднее
+        int letht = 1;//задача:найти сумму, количество и среднее.
         int right = 3;
         int sum = 0;
         int count = 0;
