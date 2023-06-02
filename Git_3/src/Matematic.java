@@ -10,7 +10,11 @@ public class Matematic {
         this.c = c;
     }
     public int sum() {
+
         sum = a + b + c;
         return sum;
     }
+
+
+
 }

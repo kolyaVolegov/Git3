@@ -3,7 +3,6 @@ public class Main {
 
         System.out.println("Hello world!");
         System.out.println("Good Bye world");
-        Matematic matematic = new Matematic(12,15,45);
-        System.out.println(matematic.sum());
+        Matematic matematic = new Matematic(12, 15, 45);
+        System.out.println(matematic.sum())
     }
-}
